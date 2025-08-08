@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cZh7mkWUlbFeeBsOKN7ZVXJXCKH4ME1FJnsKHp/4o3Q=",
+  "Source": "API_MAUI_Server",
+  "BasePath": "_content/API_MAUI_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
